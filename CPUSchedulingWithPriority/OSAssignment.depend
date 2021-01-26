@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1569061865 source:h:\mmu\tsn2101\os assignmen\ourassignment\osassignment\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	"windows.h"
+	"process.h"
+	"RoundRobin.h"
+	"ThreeLevelQueue.h"
+
+1568358720 source:h:\mmu\tsn2101\os assignmen\ourassignment\osassignment\src\process.cpp
+	"process.h"
+	<sstream>
+
+1568359193 h:\mmu\tsn2101\os assignmen\ourassignment\osassignment\include\process.h
+	<iostream>
+	<String>
+
+1569057458 source:h:\mmu\tsn2101\os assignmen\ourassignment\osassignment\src\roundrobin.cpp
+	"RoundRobin.h"
+
+1569057489 h:\mmu\tsn2101\os assignmen\ourassignment\osassignment\include\roundrobin.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<iomanip>
+	"process.h"
+
+1569057902 h:\mmu\tsn2101\os assignmen\ourassignment\osassignment\include\threelevelqueue.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<iomanip>
+	"process.h"
+
+1569057878 source:h:\mmu\tsn2101\os assignmen\ourassignment\osassignment\src\threelevelqueue.cpp
+	"ThreeLevelQueue.h"
+
